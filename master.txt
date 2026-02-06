@@ -1,1 +1,2 @@
 This is master.txt file 
+Added this line in private branch
